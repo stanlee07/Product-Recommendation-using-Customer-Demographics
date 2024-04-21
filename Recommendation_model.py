@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # UKRI Interview Project
 # 
 # 
 # Product Recommendation based on Customer Demographics
